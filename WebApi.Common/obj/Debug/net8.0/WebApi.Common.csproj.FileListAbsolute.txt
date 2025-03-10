@@ -1,0 +1,12 @@
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\bin\Debug\net8.0\WebApi.Common.deps.json
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\bin\Debug\net8.0\WebApi.Common.dll
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\bin\Debug\net8.0\WebApi.Common.pdb
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\WebApi.Common.csproj.AssemblyReference.cache
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\WebApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\WebApi.Common.AssemblyInfoInputs.cache
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\WebApi.Common.AssemblyInfo.cs
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\WebApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\WebApi.Common.dll
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\refint\WebApi.Common.dll
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\WebApi.Common.pdb
+C:\Users\KUMA398137\Downloads\repo\WebApi.Common\obj\Debug\net8.0\ref\WebApi.Common.dll

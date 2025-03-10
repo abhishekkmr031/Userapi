@@ -1,0 +1,15 @@
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\bin\Debug\net8.0\WebApi.Infrastructure.deps.json
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\bin\Debug\net8.0\WebApi.Infrastructure.dll
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\bin\Debug\net8.0\WebApi.Infrastructure.pdb
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\bin\Debug\net8.0\WebApi.Common.dll
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\bin\Debug\net8.0\WebApi.Common.pdb
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.Infrastructure.AssemblyInfo.cs
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.I.801411C9.Up2Date
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.Infrastructure.dll
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\refint\WebApi.Infrastructure.dll
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\WebApi.Infrastructure.pdb
+C:\Users\KUMA398137\Downloads\repo\WebApi.Infrastructure\obj\Debug\net8.0\ref\WebApi.Infrastructure.dll
