@@ -12,15 +12,9 @@ using WebApi.Common.Mapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-
-
 
 builder.Services.AddApiVersioning(options =>
 {
@@ -34,7 +28,6 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(GetUs
 builder.Services.AddValidatorsFromAssemblyContaining<UserValidator>();
 builder.Services.AddSingleton<UsersContext>();
 builder.Services.AddAutoMapper(typeof(UserMappingProfile));
-
 
 var app = builder.Build();
 app.UseMiddleware<ExceptionMiddleware>();
